@@ -8,16 +8,11 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GowthamAbi/Authendication-Authorization.git"
-  },
+ 
   "author": "Gowtham",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GowthamAbi/Authendication-Authorization/issues"
-  },
-  "homepage": "https://github.com/GowthamAbi/Authendication-Authorization#readme",
+
+
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
